@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nilanjan Samanta</h1>
-- 🌱 I’m currently learning **ML, AI, Data Science.**
+- 🌱 I’m currently learning **Data Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
